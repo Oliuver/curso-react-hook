@@ -6,6 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <h1>Buenastardes SASASA</h1>
       <Header />
       <Characters />
       <h1>Hola Mundo</h1>
